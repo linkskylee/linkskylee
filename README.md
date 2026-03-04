@@ -1,6 +1,5 @@
 # 안녕하세요! 👋 I'm **linkskylee**
 
-**AI Agentic Workflows · Generative Media · Multi-Agent Architecture**
 
 ---
 
@@ -58,8 +57,6 @@
 ---
 
 <div align="center">
-
-*"기술은 실제 문제를 창의적으로 해결할 때 가장 가치 있다."*
 
 📫 문의사항은 GitHub Issue 또는 메일을 통해 연락 부탁드립니다.
 
