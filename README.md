@@ -6,7 +6,7 @@
 ### 🛠 Skill
 
 #### **AI / LLM**
-- **LangChain, LangGraph** 기반 RAG(Retrieval-Augmented Generation) 경험
+- **LangChain, LangGraph** 기반 RAG 경험
 - **Prompt 설계** 및 출력 구조 개선을 통한 모델 성능 최적화 경험
 
 #### **ML / Data**
@@ -15,7 +15,7 @@
 
 #### **Backend**
 - **FastAPI, Flask**를 이용한 웹 서버 개발 및 서비스 운영 경험
-- **REST API** 설계 및 구조에 대한 깊은 이해
+- **FastAPI를 활용한 비동기 작업 기반의 **REST API** 개발 경험
 
 #### **Infra**
 - **Docker, AWS EC2** 환경에서의 프로젝트 배포 및 협업 경험
