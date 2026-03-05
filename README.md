@@ -15,7 +15,7 @@
 
 #### **Backend**
 - **FastAPI, Flask**를 이용한 웹 서버 개발 및 서비스 운영 경험
-- **FastAPI를 활용한 비동기 작업 기반의 **REST API** 개발 경험
+- **FastAPI**를 활용한 비동기 작업 기반의 **REST API** 개발 경험
 
 #### **Infra**
 - **Docker, AWS EC2** 환경에서의 프로젝트 배포 및 협업 경험
